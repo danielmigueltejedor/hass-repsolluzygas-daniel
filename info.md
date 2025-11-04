@@ -1,5 +1,8 @@
 ![banner](https://raw.githubusercontent.com/danielmigueltejedor/hass-repsolluzygas-daniel/main/banner.png)
-# 🟠 Repsol Luz y Gas (Daniel Fork)
+![icon](https://github.com/danielmigueltejedor/hass-repsolluzygas-daniel/raw/main/icon.png)
+
+# Repsol Vivit + Home Assistant
+# 🟠 Repsol Vivit + Home Assistant (Daniel Fork)
 
 > Integración mejorada y actualizada para **Repsol Luz y Gas** en Home Assistant.  
 > Permite visualizar todos tus contratos de electricidad y gas con datos de consumo, costes y facturación en tiempo real.
