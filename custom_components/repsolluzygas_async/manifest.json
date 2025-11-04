@@ -1,11 +1,11 @@
 {
   "domain": "repsolluzygas_async",
-  "name": "repsol vivit + Home Assistant",
-  "codeowners": ["@DanielMiguelTejedor"],
+  "name": "Repsol Vivit + Home Assistant",
   "version": "1.4.0",
-  "integration_type": "hub",
-  "iot_class": "cloud_polling",
-  "requirements": [],
+  "config_flow": true,
   "documentation": "https://github.com/danielmigueltejedor/hass-repsol-vivit-ha",
-  "issue_tracker": "https://github.com/danielmigueltejedor/hass-repsol-vivit-ha/issues"
+  "issue_tracker": "https://github.com/danielmigueltejedor/hass-repsol-vivit-ha/issues",
+  "codeowners": ["@danielmigueltejedor"],
+  "iot_class": "cloud_polling",
+  "requirements": []
 }
