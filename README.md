@@ -92,3 +92,15 @@ logger:
   logs:
     custom_components.repsolluzygas_async: debug
 ```
+🧑‍💻 Autor
+
+Daniel Miguel Tejedor
+Desarrollador de Nodalia Smart Systems￼
+📍 León, España
+
+📜 Créditos
+
+Basado en el proyecto original ad-ha/repsolluzygas-async￼
+Modificado, optimizado y mantenido por Daniel Miguel Tejedor (Nodalia)
+Distribuido bajo licencia MIT
+
