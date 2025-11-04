@@ -83,10 +83,12 @@ Si quieres probar cambios:
 cd /config/custom_components/
 git clone https://github.com/danielmigueltejedor/hass-repsolluzygas-daniel.git
 ha core restart
-
+```
 Los logs detallados se pueden activar en tu configuration.yaml:
 
+```bash
 logger:
   default: warning
   logs:
     custom_components.repsolluzygas_async: debug
+```
