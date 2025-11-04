@@ -3,8 +3,15 @@
 # 🟠 repsol vivit + Home Assistant
 
 ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-Custom%20Integration-41BDF5?style=for-the-badge&logo=homeassistant)
-![Version](https://img.shields.io/badge/Version-1.4.3-orange?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![Version](https://img.shields.io/github/v/release/danielmigueltejedor/hass-repsol-vivit-ha?style=for-the-badge&color=0078D7)
+![Downloads](https://img.shields.io/github/downloads/danielmigueltejedor/hass-repsol-vivit-ha/total?style=for-the-badge&color=orange)
+![Last commit](https://img.shields.io/github/last-commit/danielmigueltejedor/hass-repsol-vivit-ha?style=for-the-badge&color=blue)
+![Issues](https://img.shields.io/github/issues/danielmigueltejedor/hass-repsol-vivit-ha?style=for-the-badge&color=red)
+![HACS Custom](https://img.shields.io/badge/HACS-Custom-41BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)
+![HA Version](https://img.shields.io/badge/HA%20Compatibility-2025.10%2B-blue?style=for-the-badge&logo=home-assistant&logoColor=white)
+
+---
 
 Integración **mejorada y actualizada** para **Repsol Luz y Gas** en Home Assistant.  
 Basada en el proyecto original [`ad-ha/repsolluzygas-async`](https://github.com/ad-ha/repsolluzygas-async), esta versión corrige y amplía funcionalidades clave:
