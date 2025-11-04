@@ -1,4 +1,6 @@
-# 🟠 Repsol Luz y Gas (Daniel Fork)
+![banner](https://raw.githubusercontent.com/danielmigueltejedor/hass-repsolluzygas-daniel/main/banner.png)
+
+# 🟠 repsol vivit + Home Assistant (Daniel Fork)
 
 ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-Custom%20Integration-41BDF5?style=for-the-badge&logo=homeassistant)
 ![Version](https://img.shields.io/badge/Version-1.4.0-orange?style=for-the-badge)
