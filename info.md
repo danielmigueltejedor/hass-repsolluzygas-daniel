@@ -68,4 +68,13 @@ Basado en el proyecto original ad-ha/repsolluzygas-async￼
 Modificado, optimizado y mantenido por Daniel Miguel Tejedor (Nodalia)
 Distribuido bajo licencia MIT
 
+---
+
+## ⚠️ Descargo de responsabilidad
+
+Este proyecto **no está afiliado ni asociado de ninguna manera con el Grupo Repsol ni con ninguna de sus filiales**.  
+La información aquí presentada se ofrece únicamente con fines educativos y de recursos.  
+Los desarrolladores **no respaldan ni promueven ningún uso inapropiado del código**,  
+y **no asumen responsabilidad legal alguna** sobre el funcionamiento o la seguridad de los dispositivos conectados.
+
 ![icon](https://github.com/danielmigueltejedor/hass-repsol-vivit-ha/raw/main/icon.png)
