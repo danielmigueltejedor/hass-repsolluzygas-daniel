@@ -1,6 +1,6 @@
 ![banner](https://raw.githubusercontent.com/danielmigueltejedor/hass-repsol-vivit-ha/main/banner.png)
 
-# 🟠 repsol vivit + Home Assistant (Daniel Fork)
+# 🟠 repsol vivit + Home Assistant
 
 ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-Custom%20Integration-41BDF5?style=for-the-badge&logo=homeassistant)
 ![Version](https://img.shields.io/badge/Version-1.4.3-orange?style=for-the-badge)
