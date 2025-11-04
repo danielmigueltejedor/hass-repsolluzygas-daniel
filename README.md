@@ -23,7 +23,7 @@ Basada en el proyecto original [`ad-ha/repsolluzygas-async`](https://github.com/
 1. Abre **HACS → Integraciones → Menú (⋮) → Repositorios personalizados**
 2. Añade el siguiente repositorio: https://github.com/danielmigueltejedor/hass-repsol-vivit-ha
 3. Categoría → **Integration**
-4. Pulsa **Añadir**, después busca **Repsol Luz y Gas (Daniel Fork)** y **haz clic en Instalar**.
+4. Pulsa **Añadir**, después busca **repsol vivit + Home Assistant** y **haz clic en Instalar**.
 5. Reinicia Home Assistant.
 6. Ve a **Configuración → Dispositivos e Integraciones → Añadir integración** → busca `Repsol Luz y Gas (Daniel Fork)`.
 
